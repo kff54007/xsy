@@ -15,7 +15,7 @@ int main()
 	}
 	else
 	{
-		printf("%d not a leap year\n");
+		printf("%d not a leap year\n", year);
 	}
 	// 让程序执行到这的时候暂停住，不然弹出的黑窗口就会一闪而过
 	system("pause");
